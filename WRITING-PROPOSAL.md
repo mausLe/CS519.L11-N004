@@ -1,3 +1,6 @@
+ # WRITING PROPOSAL
+ Tóm tắt các ý mà các bạn thu được qua bài viết này?
+ 
  # Group N004:  
  Lê Tuấn Anh 17520237  
  Nguyễn Hưng 17520541  
