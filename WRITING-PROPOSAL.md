@@ -14,7 +14,14 @@
  - Tiến hành thí nghiệm: Thí nghiệm là một bước cực kì quan trọng để thu thập và phân tích dữ liệu nhằm đi đến kết luận liên quan đến câu hỏi nghiên cứu. 
  Do đó, có thể nói rằng việc suy nghĩ như một nhà khoa học là bước đệm cho một công trình nghiên cứu nhằm mở ra một định hướng mới, và nhiều câu hỏi nghiên cứu mới. 
  # 2/ Đề cương nghiên cứu và văn phong
- 
+  Đề cương nghiên cứu: là một tài liệu mà trong đó nhà khoa học đề nghị cương lĩnh hay chương trình làm việc cho người đọc. Có thể xem đề cương nghiên cứu như một bản vẽ của kiến trúc sư. Vì thế, người viết đề cương phải suy nghĩ cẩn thận, có hệ thống, và sử dụng ngôn ngữ chính xác để phác họa một cách chi tiết công trình nghiên cứu. Điều này như một cơ hội để người viết đề cương sắp xếp ý tưởng một cách logic, cập nhật hóa thông tin và tìm đồng nghiệp mới.
+  
+  Văn phong: có 5 tiêu chuẩn để đánh giá cách viết đề cương nghiên cứu:
+ - Trong sáng: tránh những câu văn rườm rà, những từ khó hiểu.
+	- Đơn giản: dùng từ ngữ dễ hiểu, chính xác, và câu văn ngắn.
+	- Chính xác: định lượng hóa nội dung thông tin
+	- Khách quan: cách viết phải phi cảm tính, có trích dẫn con số hay dữ liệu để người đọc phán xét.
+	- Cấu trúc logic: phải cố gắng sắp xếp ý tưởng một cách có trước có sau, khúc chiết.
  # 3/ Nội dung một đề cương nghiên cứu
  
  ## 3.1/ Phần mục tiêu nghiên cứu:
