@@ -28,7 +28,7 @@
  # 3/ Nội dung một đề cương nghiên cứu
  Để sáng ngang với các đề cương nghiên cứu của nước ngoài, nội dung của một đề cương nghiên cứu phải gồm 4 phần quan trọng nhất: mục tiêu, bối cảnh, nghiên cứu sơ khởi, và phương pháp nghiên cứu.
  
- ## 3.1/ Phần mục tiêu nghiên cứu: nêu được cấu trúc 3 phần như sau:
+ ## 3.1/ Phần mục tiêu nghiên cứu: 
  - Một đoạn văn tổng quát về vấn đề chung: phải nói được bối cảnh nghiên cứu mà đề cương này sẽ đóng góp một phần tri thức.
  - Phát biểu về mục tiêu chung: được hiểu là mục tiêu lâu dài mà nhà nghiên cứu muốn đạt được.
  - Phát biểu về mục tiêu chuyên biệt: nói lên được những tâm điểm cụ thể, được hiểu là có thể đo lường được và kiểm định được. Các mục tiêu chuyên biệt không được quá phụ thuộc lẫn nhau.
@@ -36,7 +36,7 @@
  ## 3.2/ Phần bối cảnh và tầm quan trọng:
  Bối cảnh: được hiểu như chức năng "dàn dựng sân khấu" cho công trình nghiên cứu. Bối cảnh phải được viết theo phong cách kể chuyện sao cho đồng nghiệp không cùng chuyên ngành vẫn có thể hiểu được vấn đề. Để đạt được điều này, cần phải tuân thủ:
  - Công thức chung: Cái gì đã biết -> cái gì chưa biết -> câu hỏi.
-	- Phương pháp 4C: Compare, Contrast, Cite, Critique.
+ - Phương pháp 4C: Compare, Contrast, Cite, Critique.
  
  Tầm quan trọng: Cần phải viết sao cho người khác có thể trích dẫn một câu từ đề cương. Vì thế, tác giả cần phải "giải trình" rằng công trình nghiên cứu sẽ có tác động đến:
  - Chuyên ngành;
@@ -49,7 +49,7 @@
   
  ## 3.4/ Phần phương pháp:
  Phần phương pháp: đây là phần dài nhất và chi tiết nhất với mục đích thuyết phục người đọc rằng nhà nghiên cứu:
-		- Có kế hoạch tốt để kiểm định giả thuyết đặt ra trong phần Mục tiêu;
+  - Có kế hoạch tốt để kiểm định giả thuyết đặt ra trong phần Mục tiêu;
   - Có kiến thức, kĩ năng, và phương tiện để thực hiện công trình nghiên cứu;
   - Đã nghĩ đến những tình huống xấu sẽ gặp phải và đã có kế hoạch đối phó;
   - Diễn giải kết quả dự kiến một cách khách quan.
