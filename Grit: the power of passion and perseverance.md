@@ -1,5 +1,5 @@
 BÀI ĐỌC - CHÌA KHOÁ DẪN ĐẾN THÀNH CÔNG - SỰ BỀN BỈ
 Yêu cầu: Tóm tắt lại những gì em rút ra sau khi xem video này.
-Grit: the power of passion and perseverance - https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance
+Grit - the power of passion and perseverance - https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance
 ______________________________________________
 Trong hành trình đi tìm "Chìa khóa dẫn đến thành công", Angela Duckwork - giáo viên viên THCS, đã hết sức bất ngờ khi IQ không phải là yếu tốt quyết định đến sự thành công. Trong bài diễn thuyết của mình, cô giải thích Grit - sự bền bỉ, chính là yếu tốt phân cách những người thành công với những người phải vật lộn với cuộc sống. Từ nhưng khảo sát của cô tại West Point, Cuộc thi Chính tả quốc gia và các vùng Trũng của giáo dục, cô đã chứng minh cho luận điểm đó. Bên cạnh đó, cô cũng lưu ý thêm rằng, để rèn luyện tính bền bỉ trong mỗi con người thì "ý chí cầu tiến" là yếu tốt khởi nguyên. Và các bậc phụ huynh hãy động viên con em của mình Hãy gác sang một bên những thất bại để bắt đầu lại với những gì mà các con đã học được.
