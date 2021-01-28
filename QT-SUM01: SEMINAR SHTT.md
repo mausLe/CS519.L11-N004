@@ -9,7 +9,8 @@ Paste notebook trong ô Comment
  Trần Minh Khương 17520656
 
 # 1/ Tài sản trí tuệ là gì?
-_ Khái niệm: Tài sản trí tuệ là kết quả sáng tạo trí tuệ và thành quả đầu tư trong các lĩnh vực khoa học kĩ thuật, văn hóa, nghệ thuật,.. Cần phân biệt với tài sản hữu hình thông thường là tài sản được biểu hiện dưới hình thái vật chất, có thể nhìn thấy được và có giá trị đo lường cụ thể. 
+_ Khái niệm: Tài sản trí tuệ là kết quả sáng tạo trí tuệ và thành quả đầu tư trong các lĩnh vực khoa học kĩ thuật, văn hóa, nghệ thuật,.. Cần phân biệt với tài sản hữu hình thông thường là tài sản được biểu hiện dưới hình thái vật chất, có thể nhìn thấy được và có giá trị đo lường cụ thể.
+
 _ Hình thái: vô hình và cả được định hình. 
 
 # 2/ Quyền SHTT là gì?
@@ -21,7 +22,9 @@ Cả 2 đều thuộc quyền tác giả, tức quyền phát sinh kể từ khi
 
 ## 3.2/ Khác nhau:
 _ Quyền nhân thân: là những quyền chỉ thuộc về riêng cá nhân tác giả: đặt tên cho tác phẩm, đứng tên/bút danh, công bố/cho phép người khác công bố, bảo vệ sự toàn vẹn của tác phẩm.
+
 _ Quyền tài sản: là những quyền thuộc về chủ sở hữu đối tượng công nghiệp của tác giả: làm tác phẩm phát sinh, biễu diễn tác phẩm trước công chúng, sao chép tác phẩm, phân phối tác phẩm,...
+
 _ Có sự thỏa thuận giữa tác giả và chủ sở hữu trong việc khai thác những lợi ích của tác phẩm.
 
 # 4/ Các loại đối tượng của quyền SHTT?
@@ -37,6 +40,7 @@ Là giải pháp kỹ thuật dưới dạng sản phẩm hoặc quy trình có:
 - Tính mới
 - Trình độ sáng tạo
 - Khả năng ứng dụng công nghiệp.
+
 Sáng chế phải được cấp văn bằng bảo hộ thì mới được xem là quyền sáng chế.
 
 # 6/ Các khung pháp luật về SHTT?
