@@ -16,7 +16,8 @@ _ Hình thái: vô hình và cả được định hình.
 Quyền sở hữu trí tuệ là các quyền đối với tài sản trí tuệ. Trong số các quyền này có 2 quyền thường được nhắc đến là quyền tài sản và quyền nhân thân.
 
 # 3/ Quyền nhân thân và quyền tài sản là gì? 
-## 3.1/ Giống nhau: Cả 2 đều thuộc quyền tác giả, tức quyền phát sinh kể từ khi tác phẩm được sáng tạo và được thể hiện dưới một hình thức vật chất nhất định, không phân biệt nội dung, chất lượng, hình thức, phương tiện, ngôn ngữ, đã công bố hay chưa công bố, đã đăng ký hay chưa đăng ký.
+## 3.1/ Giống nhau:
+Cả 2 đều thuộc quyền tác giả, tức quyền phát sinh kể từ khi tác phẩm được sáng tạo và được thể hiện dưới một hình thức vật chất nhất định, không phân biệt nội dung, chất lượng, hình thức, phương tiện, ngôn ngữ, đã công bố hay chưa công bố, đã đăng ký hay chưa đăng ký.
 
 ## 3.2/ Khác nhau:
 _ Quyền nhân thân: là những quyền chỉ thuộc về riêng cá nhân tác giả: đặt tên cho tác phẩm, đứng tên/bút danh, công bố/cho phép người khác công bố, bảo vệ sự toàn vẹn của tác phẩm.
