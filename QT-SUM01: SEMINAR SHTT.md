@@ -1,5 +1,6 @@
 # QT-SUM01: SEMINAR SHTT
 Viết note tóm tắt các ý của buổi seminar SHTT
+
 Paste notebook trong ô Comment
 
  # Group N004:  
